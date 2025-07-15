@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+##I am a Tech enthusiast from India.
+
+##💻 Proficient in programming, AI, embedded systems, and digital electronics.
+
+##🌱 Enthusiastic problem solver, engaging in coursework, research, and personal projects to enhance expertise.
+
+##⚡ In my free time, I read tech articles and hone my soft skills.
+
+##📫 How to reach me: fardinkhanz2410@gmail.com
+
+
 <!--
 **ShashankA2004/ShashankA2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
