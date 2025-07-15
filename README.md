@@ -2,7 +2,7 @@
 
 ##I am a Tech enthusiast from India.
 
-##💻 Proficient in programming, AI, embedded systems, and digital electronics.
+##💻 Proficient in programming, AI, embedded systems, and electronics.
 
 ##🌱 Enthusiastic problem solver, engaging in coursework, research, and personal projects to enhance expertise.
 
