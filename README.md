@@ -8,7 +8,8 @@
 
 ##⚡ In my free time, I read tech articles and hone my soft skills.
 
-##📫 How to reach me: amaravatishashank.com
+## 📫 How to reach me: [amaravatishashank.com](https://amaravatishashank.com)
+
 
 
 <!--
