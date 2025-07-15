@@ -8,7 +8,7 @@
 
 ##⚡ In my free time, I read tech articles and hone my soft skills.
 
-##📫 How to reach me: fardinkhanz2410@gmail.com
+##📫 How to reach me: amaravatishashank.com
 
 
 <!--
