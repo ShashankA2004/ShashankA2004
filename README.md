@@ -11,7 +11,8 @@
 
 ##⚡ In my free time, I read tech articles and hone my soft skills.
 
-## 📫 How to reach me: [amaravatishashank.com](https://amaravatishashank.com)
+## 📫 How to reach me: [amaravatishashank.com](https://amaravatishashank.com) | [LinkedIn](https://www.linkedin.com/in/shashank-amaravati-3803a8294/)
+
 
 
 
